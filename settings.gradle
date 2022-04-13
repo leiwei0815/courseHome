@@ -1,4 +1,4 @@
-rootProject.name = "FlowPractice"
+rootProject.name = "CourseHome"
 include ':app'
 include ':paging'
 include ':coursehome'
