@@ -1,6 +1,6 @@
-# 结合kotlin与jetpack进行项目实现
+# Kotlin结合Jetpack进行项目实现
+**ViewModel / LifeCycle / LiveData / DataBinding / Paging3 / Hilt / Room / Coil / AppStartup**
 
-![Image](https://user-images.githubusercontent.com/72546851/163128852-fd253bc1-bad7-457b-9af4-cab7940c4840.png)
 
 ### Paging3
 - 加载数据的流程
